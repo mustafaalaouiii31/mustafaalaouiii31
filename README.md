@@ -1,16 +1,20 @@
-## Hi there 👋
+# Salut, moi c'est Mustafa 👋
 
-<!--
-**mustafaalaouiii31/mustafaalaouiii31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Élève ingénieur en **Data Science & Cloud Computing** à l'ENSA Oujda (promo 2027).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ce que je fais
+- 🔧 **Data Engineering** : pipelines ETL, dashboards
+- 🤖 **Machine Learning & IA** : modélisation, XGBoost, RAG
+- ☁️ **Cloud** : déploiement sur AWS
+- 🌐 **Web** : React, ASP.NET Core
+
+## Projets
+- [**web-analytics-pipeline**](https://github.com/mustafaalaouiii31/web-analytics-pipeline) : pipeline d'analyse des logs web, de la collecte à la visualisation
+- [**movie_emotion_app**](https://github.com/mustafaalaouiii31/movie_emotion_app) :Un site web intelligent qui analyse les émotions de l’utilisateur à partir de son récit quotidien et lui recommande 5 films adaptés à son humeur.
+
+## Stack
+Python · SQL · pandas · scikit-learn · XGBoost · AWS · React · ASP.NET Core
+
+## Me contacter
+[LinkedIn](https://www.linkedin.com/in/alaoui-mustafa-839473392/) · [Email](alaouimustafa31@gmail.com)
