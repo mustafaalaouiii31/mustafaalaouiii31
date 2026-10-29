@@ -1,4 +1,4 @@
-# Salut, moi c'est Mustafa 👋
+# Salut, moi c'est Mustafa 
 
 Élève ingénieur en **Data Science & Cloud Computing** à l'ENSA Oujda (promo 2027).
 
