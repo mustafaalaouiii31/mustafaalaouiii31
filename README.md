@@ -10,6 +10,7 @@
 - 🌐 **Web** : React, ASP.NET Core
 
 ## Projets
+- [**ai-local-agent-pfa**](https://github.com/mustafaalaouiii31/ai-local-agent-pfa?utm_source=chatgpt.com) : agent IA conversationnel local permettant l'analyse documentaire, l'extraction d'informations et l'aide à la décision grâce à un système RAG fonctionnant hors ligne.
 - [**web-analytics-pipeline**](https://github.com/mustafaalaouiii31/web-analytics-pipeline) : pipeline d'analyse des logs web, de la collecte à la visualisation
 - [**movie_emotion_app**](https://github.com/mustafaalaouiii31/movie_emotion_app) :Un site web intelligent qui analyse les émotions de l’utilisateur à partir de son récit quotidien et lui recommande 5 films adaptés à son humeur.
 
